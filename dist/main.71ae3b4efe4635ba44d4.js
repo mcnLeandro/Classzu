@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector("canvas"),console.log("loeaded")})();
